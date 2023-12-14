@@ -1,9 +1,3 @@
-# Yield-Prediction :seedling:
-
-[![GitHub](https://img.shields.io/github/license/Drinkler/Yield-Prediction)](https://github.com/Drinkler/Yield-Prediction/blob/main/LICENSE)
-![GitHub issues](https://img.shields.io/github/issues/Drinkler/Yield-Prediction)
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
-[![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat)](https://gitmoji.carloscuesta.me)
 
 ## About
 
